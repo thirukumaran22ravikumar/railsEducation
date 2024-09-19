@@ -27,8 +27,8 @@ end
 
 #   task :example, [:option]  => [:environment] do |task, args|
 #   	data = args[:option]
-#   	puts task.to_s
-#   	puts data.to_s
+#   	puts task.to_s+"-------t"
+#   	puts data.to_s+"-------d"
     
 #   end
 # end
